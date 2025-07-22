@@ -5,8 +5,8 @@ This GitHub repository contains all the information you need about the Orange Pi
 
 If you ever have a question about this SBC, Don't hesitate to ask the community or me directly.
 
-Table of Contents
-  1.Operating Systems and Building Them.
+Table of Contents:
+   1.Operating Systems and Building Them.
 
 1. Operating Systems and Building Them.
 
