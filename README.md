@@ -19,4 +19,5 @@ Instead Use Armbian xfce https://www.armbian.com/orange-pi-zero-2w/ but I prefer
 
 b. Building Your Own OS
 
-To build your own OS you need a Ubuntu machine or if you're using Arch Linux/Debian or Maybe Windows you need a virtual machine like Qemu Virt-Manager or WSL 
+To build your own OS you need a Ubuntu machine or if you're using Arch Linux/Debian or Maybe Windows you need a virtual machine like Qemu Virt-Manager or WSL.
+Its easy as followng the steps of https://github.com/armbian/build or https://docs.armbian.com/Developer-Guide_Build-Preparation/ .
