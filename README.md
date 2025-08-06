@@ -24,7 +24,7 @@ Its easy as followng the steps of https://github.com/armbian/build or https://do
 
 ### c. Prebuilt/Preconfigured Images
 You can download images from https://www.armbian.com/orange-pi-zero-2w/ here.
-The preconfigured images are on release tag.(I recommend extracting the images before use.) 
+The preconfigured images are on release tag.(I recommend extracting the images before use.) You need to resize the partition via gnome disks or windows disk management after you write the image on sd card. 
 
 ### d. Flashing Images
 I usually use Balena Etcher for Linux images, but I haven't found a way to flash Android images on Linux yet. https://github.com/YuzukiTsuru/OpenixCard It doesn't work for me. If you ever manage to get it to work, let me know.
